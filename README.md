@@ -4,6 +4,8 @@
 
 ## Весенний семестр 2026 года.
 
+- [Обложка программы дисциплины.](https://github.com/ugapanyuk/course-architecture/blob/main/architecture.pdf)
+
 ## Модуль 1 - Программирование на языке C#
 
 - [Конспекты лекций.](https://github.com/ugapanyuk/course-architecture/blob/main/lectures/lectures_1.pdf)
