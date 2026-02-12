@@ -4,13 +4,24 @@
 
 ## Весенний семестр 2026 года.
 
+## Модуль 1 - Программирование на языке C#
 
-## Семинары:
+- [Конспекты лекций.](https://github.com/ugapanyuk/course-architecture/blob/main/lectures/lectures_1.pdf)
 
-1. [Проектирование системы классов на языке программирования C#.](https://github.com/ugapanyuk/course-architecture/blob/main/seminar_1/seminar_1.pdf)
-    * Исходные коды проектов:
-        * [Structures.](https://github.com/ugapanyuk/course-architecture/tree/main/seminar_1/1_Structures) 
-        * [Classes.](https://github.com/ugapanyuk/course-architecture/tree/main/seminar_1/2_Classes) 
-        * [Figures_1.](https://github.com/ugapanyuk/course-architecture/tree/main/seminar_1/3_Figures_1) 
-        * [Figures_2.](https://github.com/ugapanyuk/course-architecture/tree/main/seminar_1/4_Figures_2) 
+- Семинары:
+  - [Семинар №1: Анализ результатов квалификации гоночных болидов.](https://github.com/ugapanyuk/course-architecture/wiki/Seminar_1)
 
+- Тексты программ
+  - [Тексты программ модуля №1.](https://github.com/ugapanyuk/course-architecture/tree/main/code/ConsoleStructures)
+  - [Архив проекта.](https://github.com/ugapanyuk/course-architecture/blob/main/code/ConsoleStructures.zip)
+
+## Домашние задания
+
+- Условия ДЗ №1 (срок сдачи 4 неделя)
+- Условия ДЗ №2 (срок сдачи 8 неделя)
+- Условия ДЗ №3 (срок сдачи 14 неделя)
+
+## Рубежные контроли
+
+- Условия РК №1 (срок сдачи 9 неделя)
+- Условия РК №2 (срок сдачи 16 неделя)
