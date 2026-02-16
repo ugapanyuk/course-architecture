@@ -12,6 +12,7 @@
 
 - Семинары:
   - [Семинар №1: Анализ результатов квалификации гоночных болидов.](https://github.com/ugapanyuk/course-architecture/wiki/Seminar_1)
+    - [Пример выполнения](https://github.com/ugapanyuk/course-architecture/blob/main/code/ConsoleStructures/Seminar1/Program.cs)
 
 - Тексты программ
   - [Тексты программ модуля №1.](https://github.com/ugapanyuk/course-architecture/tree/main/code/ConsoleStructures)
