@@ -11,8 +11,11 @@
 - [Конспекты лекций.](https://github.com/ugapanyuk/course-architecture/blob/main/lectures/lectures_1.pdf)
 
 - Семинары:
-  - [Семинар №1: Анализ результатов квалификации гоночных болидов.](https://github.com/ugapanyuk/course-architecture/wiki/Seminar_1)
-    - [Пример выполнения](https://github.com/ugapanyuk/course-architecture/blob/main/code/ConsoleStructures/Seminar1/Program.cs)
+  - [Семинар №1: Анализ результатов квалификации гоночных болидов.](https://github.com/ugapanyuk/course-architecture/blob/main/seminars/seminar1.pdf)
+    - [Пример кода](https://github.com/ugapanyuk/course-architecture/blob/main/code/ConsoleStructures/Seminar1/Program.cs)
+  - [Семинар №2: Работа с разреженными матрицами.](https://github.com/ugapanyuk/course-architecture/blob/main/seminars/seminar2.pdf)
+    - [Пример кода](https://github.com/ugapanyuk/course-architecture/blob/main/code/ConsoleStructures/Seminar2/Program.cs)
+
 
 - Тексты программ
   - [Тексты программ модуля №1.](https://github.com/ugapanyuk/course-architecture/tree/main/code/ConsoleStructures)
