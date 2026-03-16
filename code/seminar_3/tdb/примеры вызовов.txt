@@ -1,0 +1,11 @@
+tdb join dev dep dep_id dep_id < dev.csv
+
+tdb join dev dep dep_id dep_id < dev.csv | tdb projection dev_name
+
+tdb where dep_id 2 < dev.csv | tdb projection dev_name
+
+tdb where dep_id 2 < dev.csv
+
+tdb group_avg dep_id dev_commits < dev.csv > tmp.csv
+tdb join tmp dep dep_id dep_id
+

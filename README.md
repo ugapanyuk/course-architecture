@@ -15,6 +15,9 @@
     - [Пример кода](https://github.com/ugapanyuk/course-architecture/blob/main/code/ConsoleStructures/Seminar1/Program.cs)
   - [Семинар №2: Работа с разреженными матрицами.](https://github.com/ugapanyuk/course-architecture/blob/main/seminars/seminar2.pdf)
     - [Пример кода](https://github.com/ugapanyuk/course-architecture/blob/main/code/ConsoleStructures/Seminar2/Program.cs)
+  - [Семинар №3: Основы обработки файлов в формате «CSV».](https://github.com/ugapanyuk/course-architecture/blob/main/seminars/seminar3.pdf)
+    - [Пример кода](https://github.com/ugapanyuk/course-architecture/blob/main/code/seminar_3/)
+    - [Полный код проекта](https://github.com/ugapanyuk/course-architecture/blob/main/code/seminar_3.zip)
 
 
 - Тексты программ
