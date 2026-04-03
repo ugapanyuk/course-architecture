@@ -27,7 +27,7 @@
 ## Домашние задания
 
 - [Условия ДЗ №1](https://github.com/ugapanyuk/course-architecture/blob/main/homework/homework1.pdf) (срок сдачи 4 неделя)
-- Условия ДЗ №2 (срок сдачи 8 неделя)
+- [Условия ДЗ №2](https://github.com/ugapanyuk/course-architecture/blob/main/homework/homework2.pdf) (срок сдачи 8 неделя)
 - Условия ДЗ №3 (срок сдачи 14 неделя)
 
 ## Рубежные контроли
