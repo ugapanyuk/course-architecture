@@ -18,6 +18,9 @@
   - [Семинар №3: Основы обработки файлов в формате «CSV».](https://github.com/ugapanyuk/course-architecture/blob/main/seminars/seminar3.pdf)
     - [Пример кода](https://github.com/ugapanyuk/course-architecture/blob/main/code/seminar_3/)
     - [Полный код проекта](https://github.com/ugapanyuk/course-architecture/blob/main/code/seminar_3.zip)
+  - [Семинар №4: Создание классов и коллекций.](https://github.com/ugapanyuk/course-architecture/blob/main/seminars/seminar4.pdf)
+    - [Пример кода](https://github.com/ugapanyuk/course-architecture/blob/main/code/seminar_4/)
+    - [Полный код проекта](https://github.com/ugapanyuk/course-architecture/blob/main/code/seminar_4.zip)
 
 
 - Тексты программ
