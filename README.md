@@ -23,6 +23,8 @@
     - [Полный код проекта](https://github.com/ugapanyuk/course-architecture/blob/main/code/seminar_4.zip)
   - [Семинар №5: Внедрение зависимостей.](https://github.com/ugapanyuk/course-architecture/blob/main/seminars/seminar5.pdf)
     - [Полный код проекта](https://github.com/ugapanyuk/course-architecture/blob/main/code/seminar_5.zip)
+  - [Семинар №6: Рефакторинг и принципы SOLID.](https://github.com/ugapanyuk/course-architecture/blob/main/seminars/seminar6.pdf)
+
 
 
 - Тексты программ
