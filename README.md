@@ -41,4 +41,4 @@
 
 - Условия РК №1 (срок сдачи 9 неделя)
 - Условия РК №2 (срок сдачи 16 неделя)
-    - [Архив для выполнения задания](https://github.com/ugapanyuk/courses_current/blob/main/pres/concept_map_task.zip)
+    - [Архив для выполнения задания РК №2](https://github.com/ugapanyuk/courses_current/blob/main/pres/concept_map_task.zip)
