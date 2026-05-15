@@ -31,7 +31,6 @@
 - Тексты программ
   - [Тексты программ модуля №1.](https://github.com/ugapanyuk/course-architecture/tree/main/code/ConsoleStructures)
   - [Архив проекта.](https://github.com/ugapanyuk/course-architecture/blob/main/code/ConsoleStructures.zip)
-  - [Работа с формами.](https://github.com/ugapanyuk/course-architecture/blob/main/code/forms.zip)
 
 ## Домашние задания
 
