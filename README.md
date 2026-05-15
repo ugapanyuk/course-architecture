@@ -24,12 +24,14 @@
   - [Семинар №5: Внедрение зависимостей.](https://github.com/ugapanyuk/course-architecture/blob/main/seminars/seminar5.pdf)
     - [Полный код проекта](https://github.com/ugapanyuk/course-architecture/blob/main/code/seminar_5.zip)
   - [Семинар №6: Рефакторинг и принципы SOLID.](https://github.com/ugapanyuk/course-architecture/blob/main/seminars/seminar6.pdf)
-
+  - [Семинар №7: Основы тестирования в .NET](https://github.com/ugapanyuk/course-architecture/blob/main/seminars/seminar7.pdf)
+    - [Полный код проекта](https://github.com/ugapanyuk/course-architecture/blob/main/code/ConsoleForTesting.zip)
 
 
 - Тексты программ
   - [Тексты программ модуля №1.](https://github.com/ugapanyuk/course-architecture/tree/main/code/ConsoleStructures)
   - [Архив проекта.](https://github.com/ugapanyuk/course-architecture/blob/main/code/ConsoleStructures.zip)
+  - [Работа с формами.](https://github.com/ugapanyuk/course-architecture/blob/main/code/forms.zip)
 
 ## Домашние задания
 
